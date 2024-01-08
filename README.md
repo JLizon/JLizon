@@ -1,3 +1,7 @@
+![I´m coding](Jlizon/data.png)
+
+
+
 * 👋 Hi, I’m @JLizon, your friendly neighborhood coder!
 * 👀 I'm interested in exploring the infinite possibilities of code, constantly looking for new ways to bring ideas to life.
 * 🌱 I’m currently learning and expanding my skills in python and specializing in Machine Learning and Deep Learning.
