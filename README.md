@@ -1,4 +1,4 @@
-![I´m coding](Jlizon/data.png)
+![I´m coding](https://github.com/JLizon/JLizon/blob/main/data.png)
 
 
 
